@@ -30,6 +30,10 @@ Este proyecto busca facilitar la navegación a personas con discapacidad visual 
 **Prototipo funcional.** Pendiente de mejoras, pruebas en dispositivos móviles y validación por usuarios con necesidades especiales.
 
 ---
+## Licencia
 
-> Proyecto desarrollado como ejercicio de accesibilidad y turismo digital.  
-> _Cisneros, Antioquia - 2025_
+Este proyecto está bajo la **MIT License**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+¡Disfruta del juego y siéntete libre de contribuir con mejoras!
