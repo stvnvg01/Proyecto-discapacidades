@@ -36,4 +36,4 @@ Este proyecto está bajo la **MIT License**. Consulta el archivo [LICENSE](LICEN
 
 ---
 
-¡Disfruta del juego y siéntete libre de contribuir con mejoras!
+¡Siéntete libre de contribuir con mejoras!
