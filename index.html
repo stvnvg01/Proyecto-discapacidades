@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sitios Turísticos de Cisneros</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="navbar">
+    <h1>Sitios Turísticos de Cisneros</h1>
+    <nav>
+      <a href="#" class="activo">Sitios Turísticos</a>
+      <a href="#">Cultura</a>
+      <a href="#">Historia</a>
+      <a href="#">Galería</a>
+      <a href="#">Contacto</a>
+    </nav>
+  </div>
+  <p>Explora con tu voz o con clic los lugares más emblemáticos del municipio</p>
+</header>
+
+  <main>
+    <!-- Sección combinada de entrada por voz y texto -->
+    <div id="busqueda">
+      <button id="btnHablar" aria-label="Buscar por voz">🎤 Hablar</button>
+      <input type="text" id="entradaTexto" placeholder="Buscar ...">
+      <button id="btnLimpiar" aria-label="Limpiar búsqueda">🧹 Limpiar</button>
+    </div>
+
+    <!-- Resultados dinámicos (por voz o texto) -->
+    <section id="resultados" aria-live="polite"></section>
+
+    <!-- Lista general visible desde el inicio -->
+    <h2>Todos los Sitios Turísticos</h2>
+    <section id="sitiosContainer"></section>
+  </main>
+
+  <footer>
+    <p>Proyecto accesible por voz y texto | Versión prototipo</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
